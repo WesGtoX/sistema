@@ -1,1 +1,1 @@
-# Instalação do Arch Linux
+# <h1 align='center'>Instalação do Arch Linux</h1>
