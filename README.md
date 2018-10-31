@@ -53,4 +53,6 @@ grub-mkconfig -o /boot/grub/grub.cfg<br><br>
 exit<br><br>
 <b>16° Passo: Desmonte todas as partições e reinicie o sistema.</b><br>
 umount -a<br>
-reboot<p>
+reboot<br><br>
+<b>17° Passo: Continuação sugerida.</b><br>
+<a href='https://github.com/jirrezdex/archlinux'>INSTALAÇÃO DO ARCH LINUX COM O I3-GAPS</a></p>
