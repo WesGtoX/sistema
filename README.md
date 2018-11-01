@@ -22,7 +22,7 @@ mkswap /dev/sda2<br>
 swapon /dev/sda2<br><br>
 <b>5° Passo: Definir um servidor de download.</b><br>
 nano /etc/pacman.d/mirrorlist<br>
-<b>Procure por Brazil, recorte o comando e cole no inicio do arquivo.</b><br><br>
+<b>Procure por Brazil, recorte o espelho e cole no inicio do arquivo;</b> O espelho se parece com isso "Server = http://mirror.ufscar.br/archlinux/$repo/os/$arch".<br><br>
 <b>6° Passo: Instalar o sistema base.</b><br>
 pacstrap /mnt base base-devel<br><br>
 <b>7° Passo: Gerar o fstab.</b><br>
