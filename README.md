@@ -74,6 +74,6 @@
 ```umount -a```  
 ```reboot```  
 
-## 10° Passo: Recomendações: ##
+## 17° Passo: Recomendações: ##
 [Instalação do Arch Linux (i3-gaps) - Parte 2](https://github.com/jirrezdex/archlinux)  
 [Instalação do Arch Linux (i3-gaps) - Parte 3](https://github.com/jirrezdex/archlinux-i3)
